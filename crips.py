@@ -166,7 +166,7 @@ def select():
             print("\033[0m")
             quitProgram()
 
-    except(KeyboardInterrupt):
+    except KeyboardInterrupt as e:
         print("")
 
 
